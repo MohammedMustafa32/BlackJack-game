@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BlackJack</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/blackjack/Card_GUI.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Ain%20Shams%20Universty/Third%20Year/3th%20first%20term%20%20(GPA%20)/OOP%20in%20JAVA%20%20(2th%20year)/Assignment%201/blackjack_java_files/Card_GUI.java</locationURI>
+		</link>
+		<link>
+			<name>src/blackjack/GUI.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Ain%20Shams%20Universty/Third%20Year/3th%20first%20term%20%20(GPA%20)/OOP%20in%20JAVA%20%20(2th%20year)/Assignment%201/blackjack_java_files/GUI.java</locationURI>
+		</link>
+		<link>
+			<name>src/blackjack/GameComponent.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Ain%20Shams%20Universty/Third%20Year/3th%20first%20term%20%20(GPA%20)/OOP%20in%20JAVA%20%20(2th%20year)/Assignment%201/blackjack_java_files/GameComponent.java</locationURI>
+		</link>
+		<link>
+			<name>src/blackjack/Game_GUI.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Ain%20Shams%20Universty/Third%20Year/3th%20first%20term%20%20(GPA%20)/OOP%20in%20JAVA%20%20(2th%20year)/Assignment%201/blackjack_java_files/Game_GUI.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
